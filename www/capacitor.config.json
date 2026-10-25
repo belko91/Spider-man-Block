@@ -1,0 +1,6 @@
+{
+  "appId": "com.marvel.blockblast",
+  "appName": "Marvel Block Blast",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
